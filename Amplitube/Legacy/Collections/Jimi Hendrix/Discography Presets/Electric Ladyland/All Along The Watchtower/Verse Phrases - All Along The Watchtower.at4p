@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Preset Version="1.000000" Format="at4p" GUID="1cacecbb-1d14-4597-b68c-cac095207486" PresetBPM="120.000000" ProgramChange="-1">
+    <Chain Preset="0" StereoInput="0" />
+    <Input Input="1.000000" GateThreshold="0.000010" GateRelease="200.000000" GateDepth="-60.000000" />
+    <Tuner OutputVolume="1.000000" Bypass="1" Mute="0" TunerType="354eca51-457a-41b7-917d-ce6117586905">
+        <Tuner />
+    </Tuner>
+    <StompA Bypass="0" Mute="0" OutputVolume="1.000000" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompA>
+    <StompB Bypass="0" Mute="0" OutputVolume="1.000000" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompB>
+    <AmpA Bypass="0" Mute="0" OutputVolume="1.000000" Model="84f03443-ae64-4c7e-970f-06d1191cd906">
+        <Amp AmpFlexiGain="7.343750" AmpFlexiBass="5.625000" AmpFlexiMid="3.515625" AmpFlexiTreble="7.578125" AmpFlexiPresence="6.796875" AmpFlexiReverb="1.581250" AmpFlexiVolume="8.593750" AmpFlexiEqModel="63993d7b-8cd0-4b72-bfe3-69951ef3e74a" AmpFlexiPowerAmpModel="d5105e40-8cc9-415e-95b1-d851fc697d99" />
+    </AmpA>
+    <AmpB Bypass="0" Mute="0" OutputVolume="1.000000" Model="71a76a9f-cf70-4f59-971f-9864a055523c">
+        <Amp AmpFlexiEqModel="63993d7b-8cd0-4b72-bfe3-69951ef3e74a" AmpFlexiPowerAmpModel="a14c1f1e-be21-409d-9eb1-e9e2216c2b27" AmpFlexiGain="5.000000" AmpFlexiBass="5.000000" AmpFlexiMid="5.000000" AmpFlexiTreble="5.000000" AmpFlexiPresence="5.000000" AmpFlexiReverb="1.250000" AmpFlexiVolume="5.000000" />
+    </AmpB>
+    <LoopFxA Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxA>
+    <LoopFXB Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFXB>
+    <CabA Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" DryLevel="0" OutputPhase="0.000000" CabModel="afe74c01-d70d-47ba-bfd5-4ac43ecaa954" NumSpeaker12Inch="No12InchSpeaker" SpeakerModel0="8b9fc1ce-f012-4429-b728-f0e822a1329e" SpeakerModel1="8b9fc1ce-f012-4429-b728-f0e822a1329e" SpeakerModel2="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel3="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83">
+        <Cab RoomType="Mid Studio" MicsBalance="0.000000" Mic0Model="035c9475-312b-4f6e-87b4-c33aad7d5470" Mic1Model="00000000-0000-0000-0000-000000000000" Mic0Mute="0" Mic1Mute="1" Size="100.000000" HighLevel="0.770000" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50.000000" RoomPan="0.000000" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0.000000" Mic1Pan="0.000000" Mic0XAxis="0" Mic0Speaker="0" Mic1XAxis="0.8" Mic1Speaker="1" Mic0Distance="0.000000" Mic1Distance="0.014286" RoomLevel="0" Mic0Level="1" Mic1Level="0" />
+    </CabA>
+    <CabB Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" DryLevel="0" OutputPhase="0.000000" CabModel="9fa8c924-6543-4085-b55b-58b99aada17e" NumSpeaker12Inch="No12InchSpeaker" SpeakerModel0="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel1="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel2="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel3="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83">
+        <Cab RoomType="Mid Studio" MicsBalance="0.000000" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="9e444286-cab4-46a4-bfa3-a6d55b3ffcfb" Mic0Mute="0" Mic1Mute="0" Size="100.000000" HighLevel="0.770000" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50.000000" RoomPan="0.000000" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0.000000" Mic1Pan="0.000000" Mic0XAxis="-0.028571" Mic0Speaker="0" Mic1XAxis="0.8" Mic1Speaker="1" Mic0Distance="0.028571" Mic1Distance="0.014286" RoomLevel="0.076923" Mic0Level="0.594604" Mic1Level="0.594604" />
+    </CabB>
+    <RackA Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" Rack0="d0211742-18e6-4fdb-9efa-3d72e4ae515b" Rack1="9f1147a6-302f-48f3-a5bc-26cc5d399a8b" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 Bypass="0" Drive="1.088225" Attack="25.562500" Release="197.656265" Ratio="2.062500" OutLevel="0.784389" />
+        <Slot1 Bypass="0" BassGain="1.000000" BassFreq="100.000000" BassQ="0.700000" MidGain="1.000000" MidFreq="1000.000000" MidQ="0.700000" HighGain="1.459024" HighFreq="3373.571777" HighQ="0.842868" OutLevel="1.000000" />
+        <Slot2 />
+        <Slot3 />
+    </RackA>
+    <RackB Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackB>
+    <Output Output="1.000000" />
+    <MetaInfo Description="IK Multimedia Factory Preset" Style="Vintage" SoundCharacter="Bright" Instrument="S-S-S (Str.)" Body="Solid Body" PickUpPosition="Bridge" Artist="Jimi Hendrix" Band="The Jimi Hendrix Experience" Song="All Along The Watchtower" SongStructureElement="Verse" KeyWords="American Vintage D Parametric EQ rack Tube Compressor rack Jimi Hendrix discography" Type="Electric Guitar" />
+</Preset>

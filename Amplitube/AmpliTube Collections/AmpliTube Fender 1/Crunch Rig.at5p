@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<Preset Version="1" Format="at5p" GUID="902b43bc-8b2f-4312-8977-212b64a475b8" PresetBPM="120" ProgramChange="-1">
+    <Chain Preset="Chain12" MonoChainDualCab="0" DIBeforeAmp="0" />
+    <Input Input="1" />
+    <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="354eca51-457a-41b7-917d-ce6117586905">
+        <Tuner Reference="440" NoteReferemce="A" Transpose="0" Temperament="Equal" />
+    </Tuner>
+    <StompA1 Bypass="0" Mute="0" OutputVolume="1" Stomp0="f5edced9-6dfc-4851-8651-f81f5423d210" Stomp1="01648ef1-6369-4170-81a3-90dd20451260" Stomp2="8d7ff76e-9273-46b6-95d5-3d7bd667fff2" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 Bypass="0" Switch="Low" />
+        <Slot1 Bypass="0" Volume="10" Sustain="1" Blend="1" Tone="1" ToneBoost="0" />
+        <Slot2 Bypass="0" Band100="0.433669" Band200="0.567422" Band400="0.758629" Band800="0.967159" Band1600="1" Band3200="1" Band6400="1" Level="1" />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompA1>
+    <StompA2 Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompA2>
+    <StompStereo Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+    </StompStereo>
+    <StompB1 Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompB1>
+    <StompB2 Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompB2>
+    <StompB3 Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompB3>
+    <AmpA Bypass="0" Mute="0" OutputVolume="1" Model="dffa559d-7b12-464a-9fbf-877ca25f5cf3">
+        <Amp Dwell_VibroKing="3.98438" Mix_VibroKing="2.03027" Tone_VibroKing="6.09375" Fat_VibroKing="0" Volume_VibroKing="6.09375" Treble_VibroKing="3.82812" Bass_VibroKing="5.39062" Mid_VibroKing="5" Speed_VibroKing="4.84375" Intensity_VibroKing="0" />
+    </AmpA>
+    <AmpB Bypass="0" Mute="0" OutputVolume="1" Model="3fcc8ad1-6d5e-416d-9c3d-7aae91c6f4d4">
+        <Amp Presence_Bassman="4.57031" Middle_Bassman="10.4688" Bass_Bassman="4.71094" Treble_Bassman="4.85156" Volume_Bassman="4.78125" />
+    </AmpB>
+    <AmpC Bypass="0" Mute="0" OutputVolume="1" Model="3930eb8b-3eda-4079-b86d-7bfd7d4449bc">
+        <Amp Lead_MarshallSilverJubilee="1" Rhythm_MarshallSilverJubilee="1" Gain_MarshallSilverJubilee="5" LeadVolume_MarshallSilverJubilee="9" Volume_MarshallSilverJubilee="7" Bass_MarshallSilverJubilee="5" Mid_MarshallSilverJubilee="6" Treble_MarshallSilverJubilee="5.5" Presence_MarshallSilverJubilee="3" />
+    </AmpC>
+    <LoopFxA Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxA>
+    <LoopFxB Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxB>
+    <LoopFxC Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxC>
+    <CabA Bypass="0" Mute="0" CabModel="104346d1-5fbc-474d-bcf0-7980cbe04a82" SpeakerModel0="a3cc18b8e9b449e3b1ce34c69b310b83" SpeakerModel1="a3cc18b8e9b449e3b1ce34c69b310b83" SpeakerModel2="a3cc18b8e9b449e3b1ce34c69b310b83" SpeakerModel3="a3cc18b8e9b449e3b1ce34c69b310b83" Studio_Mic1_Level="-2.29138" Studio_Mic1_Pan="1" Studio_Mic1_Mute="0" Studio_Mic1_Angle="0" Studio_Mic1_Solo="0" Studio_Mic1_Phase="0" Studio_Mic2_Level="-3.07632" Studio_Mic2_Pan="1" Studio_Mic2_Mute="0" Studio_Mic2_Angle="0" Studio_Mic2_Solo="0" Studio_Mic2_Phase="0" Studio_Room_Level="-33.2825" Studio_Room_Width="50" Studio_Room_Mute="0" Studio_Room_Solo="0" Studio_Room_Phase="0" Studio_Bus_Level="-7.63257" Studio_Bus_Pan="0.5" Studio_Bus_Mute="0" Studio_Bus_Solo="0" Studio_Bus_Phase="0" Studio_DI_Level="-201" Studio_DI_Pan="0.5" Studio_DI_Mute="1" Studio_DI_Solo="0" Studio_DI_Phase="0" DI_PhaseDelay="0" Studio_LeslieCab_Horn_VolL="0" Studio_LeslieCab_Horn_VolR="0" Studio_LeslieCab_Horn_PanL="-1" Studio_LeslieCab_Horn_PanR="1" Studio_LeslieCab_Drum_VolL="0" Studio_LeslieCab_Drum_VolR="0" Studio_LeslieCab_Drum_PanL="-1" Studio_LeslieCab_Drum_PanR="1">
+        <Cab HighLevel="0.77" RoomType="Hall" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50" RoomPan="0" RoomLevel="-33.2825" Mic0Model="0f35a776-f6db-403d-930f-6b7f42fed749" Mic1Model="9e444286-cab4-46a4-bfa3-a6d55b3ffcfb" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Angle="0" Mic1Angle="0" Mic0Pan="1" Mic1Pan="1" Mic0Level="-2.29138" Mic1Level="-3.07632" Mic0XAxis="-0.407954" Mic1XAxis="0.32548" Mic0YAxis="0" Mic1YAxis="0" Mic0Distance="0.0627942" Mic1Distance="0.0657962" Mic0Speaker="1" Mic1Speaker="2" GUILoadComplete="0" />
+    </CabA>
+    <CabB Bypass="0" Mute="0" CabModel="4614704e-7ca2-4736-a750-648fe9033650" SpeakerModel0="a3cc18b8e9b449e3b1ce34c69b310b83" SpeakerModel1="a3cc18b8e9b449e3b1ce34c69b310b83" SpeakerModel2="a3cc18b8e9b449e3b1ce34c69b310b83" SpeakerModel3="a3cc18b8e9b449e3b1ce34c69b310b83" Studio_Mic1_Level="-1.34631" Studio_Mic1_Pan="-1" Studio_Mic1_Mute="0" Studio_Mic1_Angle="0" Studio_Mic1_Solo="0" Studio_Mic1_Phase="0" Studio_Mic2_Level="-2.81996" Studio_Mic2_Pan="-1" Studio_Mic2_Mute="0" Studio_Mic2_Angle="0" Studio_Mic2_Solo="0" Studio_Mic2_Phase="0" Studio_Room_Level="-40" Studio_Room_Width="50" Studio_Room_Mute="0" Studio_Room_Solo="0" Studio_Room_Phase="0" Studio_Bus_Level="-2.3137" Studio_Bus_Pan="0.5" Studio_Bus_Mute="0" Studio_Bus_Solo="0" Studio_Bus_Phase="0" Studio_DI_Level="-201" Studio_DI_Pan="0.5" Studio_DI_Mute="1" Studio_DI_Solo="0" Studio_DI_Phase="0" DI_PhaseDelay="0" Studio_LeslieCab_Horn_VolL="0" Studio_LeslieCab_Horn_VolR="0" Studio_LeslieCab_Horn_PanL="-1" Studio_LeslieCab_Horn_PanR="1" Studio_LeslieCab_Drum_VolL="0" Studio_LeslieCab_Drum_VolR="0" Studio_LeslieCab_Drum_PanL="-1" Studio_LeslieCab_Drum_PanR="1">
+        <Cab HighLevel="0.77" RoomType="Large Studio" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50" RoomPan="0" RoomLevel="-40" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="0f35a776-f6db-403d-930f-6b7f42fed749" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Angle="0" Mic1Angle="0" Mic0Pan="-1" Mic1Pan="-1" Mic0Level="-1.34631" Mic1Level="-2.81996" Mic0XAxis="-0.0789474" Mic1XAxis="0.702128" Mic0YAxis="-0.289474" Mic1YAxis="0.0425532" Mic0Distance="0" Mic1Distance="0" Mic0Speaker="0" Mic1Speaker="1" GUILoadComplete="0" />
+    </CabB>
+    <CabC Bypass="0" Mute="0" CabModel="2bca68bf-1cbd-4b37-b6c2-1b40e1902e5c" SpeakerModel0="a5cad4f1d3b144ceaf6f6b4c2094cddc" SpeakerModel1="a5cad4f1d3b144ceaf6f6b4c2094cddc" SpeakerModel2="a5cad4f1d3b144ceaf6f6b4c2094cddc" SpeakerModel3="a5cad4f1d3b144ceaf6f6b4c2094cddc" Studio_Mic1_Level="0" Studio_Mic1_Pan="0" Studio_Mic1_Mute="0" Studio_Mic1_Angle="0" Studio_Mic1_Solo="0" Studio_Mic1_Phase="0" Studio_Mic2_Level="0" Studio_Mic2_Pan="0" Studio_Mic2_Mute="0" Studio_Mic2_Angle="0" Studio_Mic2_Solo="0" Studio_Mic2_Phase="0" Studio_Room_Level="-40" Studio_Room_Width="50" Studio_Room_Mute="0" Studio_Room_Solo="0" Studio_Room_Phase="0" Studio_Bus_Level="-6" Studio_Bus_Pan="0.5" Studio_Bus_Mute="0" Studio_Bus_Solo="0" Studio_Bus_Phase="0" Studio_DI_Level="-201" Studio_DI_Pan="0.5" Studio_DI_Mute="1" Studio_DI_Solo="0" Studio_DI_Phase="0" DI_PhaseDelay="0" Studio_LeslieCab_Horn_VolL="0" Studio_LeslieCab_Horn_VolR="0" Studio_LeslieCab_Horn_PanL="-1" Studio_LeslieCab_Horn_PanR="1" Studio_LeslieCab_Drum_VolL="0" Studio_LeslieCab_Drum_VolR="0" Studio_LeslieCab_Drum_PanL="-1" Studio_LeslieCab_Drum_PanR="1">
+        <Cab HighLevel="0.77" RoomType="Large Studio" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50" RoomPan="0" RoomLevel="-40" Mic0Model="9e444286-cab4-46a4-bfa3-a6d55b3ffcfb" Mic1Model="9e444286-cab4-46a4-bfa3-a6d55b3ffcfb" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Angle="0" Mic1Angle="0" Mic0Pan="0" Mic1Pan="0" Mic0Level="0" Mic1Level="0" Mic0XAxis="0" Mic1XAxis="0" Mic0YAxis="0" Mic1YAxis="0" Mic0Distance="0" Mic1Distance="0" Mic0Speaker="0" Mic1Speaker="1" GUILoadComplete="0" />
+    </CabC>
+    <Studio Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" DI_Level="-201" DI_Pan="0.5" DI_Mute="1" DI_Solo="0" DI_Phase="0" DI_PhaseDelay="0" Cab1_Mic1_Level="-2.29138" Cab1_Mic1_Pan="1" Cab1_Mic1_Mute="0" Cab1_Mic1_Solo="0" Cab1_Mic1_Phase="0" Cab1_Mic2_Level="-3.07632" Cab1_Mic2_Pan="1" Cab1_Mic2_Mute="0" Cab1_Mic2_Solo="0" Cab1_Mic2_Phase="0" Cab1_Room_Level="-33.2825" Cab1_Room_Width="50" Cab1_Room_Mute="0" Cab1_Room_Solo="0" Cab1_Room_Phase="0" Cab1_Bus_Level="-7.63257" Cab1_Bus_Pan="0.5" Cab1_Bus_Mute="0" Cab1_Bus_Solo="0" Cab2_Mic1_Level="-1.34631" Cab2_Mic1_Pan="-1" Cab2_Mic1_Mute="0" Cab2_Mic1_Solo="0" Cab2_Mic1_Phase="0" Cab2_Mic2_Level="-2.81996" Cab2_Mic2_Pan="-1" Cab2_Mic2_Mute="0" Cab2_Mic2_Solo="0" Cab2_Mic2_Phase="0" Cab2_Room_Level="-40" Cab2_Room_Width="50" Cab2_Room_Mute="0" Cab2_Room_Solo="0" Cab2_Room_Phase="0" Cab2_Bus_Level="-2.3137" Cab2_Bus_Pan="0.5" Cab2_Bus_Mute="0" Cab2_Bus_Solo="0" Cab3_Mic1_Level="0" Cab3_Mic1_Pan="0" Cab3_Mic1_Mute="0" Cab3_Mic1_Solo="0" Cab3_Mic1_Phase="0" Cab3_Mic2_Level="0" Cab3_Mic2_Pan="0" Cab3_Mic2_Mute="0" Cab3_Mic2_Solo="0" Cab3_Mic2_Phase="0" Cab3_Room_Level="-40" Cab3_Room_Width="50" Cab3_Room_Mute="0" Cab3_Room_Solo="0" Cab3_Room_Phase="0" Cab3_Bus_Level="-6" Cab3_Bus_Pan="0.5" Cab3_Bus_Mute="0" Cab3_Bus_Solo="0" MasterLevel="-4.52357" Cab1_Leslie_Horn_Width="100" Cab1_Leslie_Drum_Width="100" Cab2_Leslie_Horn_Width="100" Cab2_Leslie_Drum_Width="100" Cab3_Leslie_Horn_Width="100" Cab3_Leslie_Drum_Width="100" />
+    <RackA Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+    </RackA>
+    <RackB Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+    </RackB>
+    <RackC Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+    </RackC>
+    <RackDI Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+    </RackDI>
+    <RackMaster Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </RackMaster>
+    <Output Output="1.00097" />
+    <MidiAssignments>
+        <Assignment0 ControlName="Compressor - Bypass" GUID="f5edced9-6dfc-4851-8651-f81f5423d210" Number="20" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompA1" ChainSubSlot="0" MessageType="CC" Parameter="Bypass" />
+        <Assignment1 ControlName="Blender - Bypass" GUID="01648ef1-6369-4170-81a3-90dd20451260" Number="21" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompA1" ChainSubSlot="1" MessageType="CC" Parameter="Bypass" />
+        <Assignment2 ControlName="7 Band Graphic - Bypass" GUID="8d7ff76e-9273-46b6-95d5-3d7bd667fff2" Number="22" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompA1" ChainSubSlot="2" MessageType="CC" Parameter="Bypass" />
+    </MidiAssignments>
+    <MetaInfo Description="" Style="Grunge" SoundCharacter="Crunch" Instrument="S-S-S (Str.)" Body="Solid Body" PickUpPosition="Bridge" Artist="" Band="" Song="" SongStructureElement="None" KeyWords="" Type="Electric Guitar" />
+</Preset>

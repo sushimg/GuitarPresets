@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Preset Version="1.000000" Format="at4p" GUID="7f0da35f-ac2d-4736-b1ab-b1f2588bd3ae" PresetBPM="120.000000" ProgramChange="-1">
+    <Chain Preset="1" StereoInput="0" />
+    <Input Input="1.000000" GateThreshold="0.000010" GateRelease="200.000000" GateDepth="-60.000000" />
+    <Tuner OutputVolume="1.000000" Bypass="1" Mute="0" TunerType="354eca51-457a-41b7-917d-ce6117586905">
+        <Tuner />
+    </Tuner>
+    <StompA Bypass="0" Mute="0" OutputVolume="1.000000" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="8bbfc5b9-bf29-4a55-8211-ca21dcfda8bf" Stomp2="ad9d0a70-7a59-4fef-ace5-c592764e3749" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 Bypass="0" EchoLevel="1.632812" WowFilter="7.703125" Time="186.406250" Feedback="2.546875" Brightness="6.554688" OutLevel="-3.046875" RampStep="0" BPMSync="0" BPMMeter="1/8d" />
+        <Slot2 Bypass="0" Dwell="0.000000" Mixer="0.546875" Tone="4.218750" />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompA>
+    <StompB Bypass="0" Mute="0" OutputVolume="0.177828" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompB>
+    <AmpA Bypass="0" Mute="0" OutputVolume="1.055450" Model="d4d5b530-0ce1-46cf-a47e-bf0224fa715e">
+        <Amp Tone_Deluxe57="12.000000" InstVol_Deluxe57="5.640625" />
+    </AmpA>
+    <AmpB Bypass="0" Mute="0" OutputVolume="1.000000" Model="d4d5b530-0ce1-46cf-a47e-bf0224fa715e">
+        <Amp AmpFlexiEqModel="63993d7b-8cd0-4b72-bfe3-69951ef3e74a" AmpFlexiPowerAmpModel="a14c1f1e-be21-409d-9eb1-e9e2216c2b27" Tone_Deluxe57="11.398438" InstVol_Deluxe57="10.710938" />
+    </AmpB>
+    <LoopFxA Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxA>
+    <LoopFXB Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFXB>
+    <CabA Bypass="0" Mute="0" OutputVolume="1.027351" OutputPan="0.500000" DryLevel="0" OutputPhase="0.000000" CabModel="c275ee33-8180-4b0c-9215-dd6f37aa2394" NumSpeaker12Inch="No12InchSpeaker">
+        <Cab RoomType="Mid Studio" MicsBalance="0.000000" Mic0Model="0f35a776-f6db-403d-930f-6b7f42fed749" Mic1Model="00000000-0000-0000-0000-000000000000" Mic0Mute="0" Mic1Mute="1" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50.000000" RoomPan="0.000000" />
+    </CabA>
+    <CabB Bypass="0" Mute="0" OutputVolume="0.947463" OutputPan="0.500000" DryLevel="0.242188" OutputPhase="-1.875000" CabModel="70b17311-7b73-4415-968e-c26543e22e18" NumSpeaker12Inch="No12InchSpeaker" SpeakerModel0="02079eab-6ff4-4741-961c-d95bb82b9662" SpeakerModel1="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel2="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel3="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83">
+        <Cab RoomType="Mid Studio" MicsBalance="0.000000" Mic0Model="2b667232-0a83-4132-a18b-f51e71fa349c" Mic1Model="00000000-0000-0000-0000-000000000000" Mic0Mute="0" Mic1Mute="1" Size="100.000000" HighLevel="0.770000" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50.000000" RoomPan="0.000000" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0.000000" Mic1Pan="0.000000" Mic0XAxis="0" Mic0Speaker="0" Mic1XAxis="0.8" Mic1Speaker="0" Mic0Distance="0.000000" Mic1Distance="0.014286" RoomLevel="0" Mic0Level="0.757812" Mic1Level="0" />
+    </CabB>
+    <RackA Bypass="0" Mute="0" OutputVolume="1.345570" OutputPan="0.000000" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="9fa5b238-d7d0-47ac-a2e3-6e4e11761261" Rack2="cee174c4-821c-4b92-8cb4-86c38c433668" Rack3="7307c816-856f-438b-a381-45edf43bee0b">
+        <Slot0 />
+        <Slot1 Bypass="0" Flange="9.718750" Rate="0.080025" Depth="7.679688" Feedback="8.734375" Phase="1.000000" BPMSync="0" BPMMeter="1/2" OutLevel="0.928900" />
+        <Slot2 Bypass="0" ChorusLevel="8.664062" Rate="2.666667" Depth="8.945312" AvgDelay="1.000000" Phase="1.000000" BPMSync="1" BPMMeter="1/8d" OutLevel="1.137892" />
+        <Slot3 Bypass="0" Switch="Low" OutLevel="1.034768" Volume="1.000000" />
+    </RackA>
+    <RackB Bypass="0" Mute="0" OutputVolume="1.175743" OutputPan="1.000000" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="7307c816-856f-438b-a381-45edf43bee0b">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 Bypass="0" Switch="Low" OutLevel="0.811662" Volume="1.000000" />
+    </RackB>
+    <Output Output="0.850526" />
+    <MetaInfo Description="IK Multimedia Factory Preset" Style="Alternative" SoundCharacter="Modulated" Instrument="S-S-S (Str.)" Body="Solid Body" PickUpPosition="None" Artist="Fender" Band="" Song="" SongStructureElement="None" KeyWords="Fender &apos;57 Deluxe Fender Vibratone rotary Fender &apos;63 Reverb stomp Fender Tape Echo stomp Fender Sine Flange rack flanger Fender Triangle Chorus rack Fender Compressor rack" Type="Electric Guitar" />
+</Preset>

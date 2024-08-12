@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<Preset Version="1" Format="at4p" GUID="7686ac9a-7b43-4e8e-afce-b23797b1e935" PresetBPM="120" ProgramChange="-1">
+    <Chain Preset="0" StereoInput="0" />
+    <Input Input="1" GateThreshold="1e-05" GateRelease="200" GateDepth="-60" />
+    <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="354eca51-457a-41b7-917d-ce6117586905">
+        <Tuner />
+    </Tuner>
+    <StompA Bypass="0" Mute="0" OutputVolume="1" Stomp0="ecc79add-83b7-46ae-896a-3f1c02ece992" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 Bypass="0" Wah="100" WahType="1" Inductor="0" Voice="1" Drive="7.95313" />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompA>
+    <StompB Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompB>
+    <AmpA Bypass="0" Mute="0" OutputVolume="1" Model="57c43635-a976-46e0-a5c1-ef843bbba616">
+        <Amp Mode_MarshallJVMSatriani="OD1" Clean_Mode_MarshallJVMSatriani="Green" Crunch_Mode_MarshallJVMSatriani="Red" OD1_Mode_MarshallJVMSatriani="Green" OD2_Mode_MarshallJVMSatriani="Red" Clean_Gate_MarshallJVMSatriani="5" Clean_Green_GateOn_MarshallJVMSatriani="0" Clean_Orange_GateOn_MarshallJVMSatriani="0" Clean_Red_GateOn_MarshallJVMSatriani="0" Clean_Volume_MarshallJVMSatriani="7.26563" Clean_Bass_MarshallJVMSatriani="10" Clean_Middle_MarshallJVMSatriani="5" Clean_Treble_MarshallJVMSatriani="2.42188" Clean_Gain_MarshallJVMSatriani="4.29688" Crunch_Gate_MarshallJVMSatriani="4.60938" Crunch_Green_GateOn_MarshallJVMSatriani="0" Crunch_Orange_GateOn_MarshallJVMSatriani="0" Crunch_Red_GateOn_MarshallJVMSatriani="1" Crunch_Volume_MarshallJVMSatriani="8.4375" Crunch_Bass_MarshallJVMSatriani="5.78125" Crunch_Middle_MarshallJVMSatriani="5" Crunch_Treble_MarshallJVMSatriani="8.125" Crunch_Gain_MarshallJVMSatriani="4.45313" OD1_Gate_MarshallJVMSatriani="2.10938" OD1_Green_GateOn_MarshallJVMSatriani="1" OD1_Orange_GateOn_MarshallJVMSatriani="1" OD1_Red_GateOn_MarshallJVMSatriani="1" OD1_Volume_MarshallJVMSatriani="5" OD1_Bass_MarshallJVMSatriani="6.95313" OD1_Middle_MarshallJVMSatriani="4.84375" OD1_MidShift_MarshallJVMSatriani="1" OD1_Treble_MarshallJVMSatriani="4.60938" OD1_Gain_MarshallJVMSatriani="6.5625" OD2_Gate_MarshallJVMSatriani="1.60938" OD2_Green_GateOn_MarshallJVMSatriani="1" OD2_Orange_GateOn_MarshallJVMSatriani="1" OD2_Red_GateOn_MarshallJVMSatriani="1" OD2_Volume_MarshallJVMSatriani="3.51562" OD2_Bass_MarshallJVMSatriani="5" OD2_Middle_MarshallJVMSatriani="7.26562" OD2_MidShift_MarshallJVMSatriani="1" OD2_Treble_MarshallJVMSatriani="7.10937" OD2_Gain_MarshallJVMSatriani="4.14063" Clean_MasterType_MarshallJVMSatriani="0" Crunch_MasterType_MarshallJVMSatriani="0" OD1_MasterType_MarshallJVMSatriani="0" OD2_MasterType_MarshallJVMSatriani="0" Master1_Volume_MarshallJVMSatriani="8.35938" Master1_Reso_MarshallJVMSatriani="10" Master1_Presence_MarshallJVMSatriani="7.65626" Master2_Volume_MarshallJVMSatriani="5" Master2_Reso_MarshallJVMSatriani="5" Master2_Presence_MarshallJVMSatriani="5" />
+    </AmpA>
+    <AmpB Bypass="0" Mute="0" OutputVolume="1" Model="71a76a9f-cf70-4f59-971f-9864a055523c">
+        <Amp AmpFlexiGain="5" AmpFlexiBass="5" AmpFlexiMid="5" AmpFlexiTreble="5" AmpFlexiPresence="5" AmpFlexiReverb="1.25" AmpFlexiVolume="5" AmpFlexiEqModel="63993d7b-8cd0-4b72-bfe3-69951ef3e74a" AmpFlexiPowerAmpModel="a14c1f1e-be21-409d-9eb1-e9e2216c2b27" />
+    </AmpB>
+    <LoopFxA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxA>
+    <LoopFxB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxB>
+    <CabA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" DryLevel="8.91251e-11" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0" CabModel="d14d5e54-70fe-4494-b32a-9f3c3a899b03" SpeakerModel0="e372dd04-b11d-4958-8c29-0fbe341e97ca" SpeakerModel1="e372dd04-b11d-4958-8c29-0fbe341e97ca" SpeakerModel2="e372dd04-b11d-4958-8c29-0fbe341e97ca" SpeakerModel3="e372dd04-b11d-4958-8c29-0fbe341e97ca">
+        <Cab Size="100" HighLevel="0.77" RoomType="Mid Studio" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50" RoomPan="0" RoomLevel="0.076923" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="9e444286-cab4-46a4-bfa3-a6d55b3ffcfb" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0" Mic1Pan="0" Mic0Level="0.594604" Mic1Level="0.594604" Mic0XAxis="-0.028571" Mic1XAxis="0.8" Mic0YAxis="0" Mic1YAxis="0" Mic0Distance="0.028571" Mic1Distance="0.014286" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabA>
+    <CabB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" DryLevel="8.91251e-11" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0" CabModel="9fa8c924-6543-4085-b55b-58b99aada17e" SpeakerModel0="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel1="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel2="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel3="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83">
+        <Cab Size="100" HighLevel="0.77" RoomType="Mid Studio" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50" RoomPan="0" RoomLevel="0.076923" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="9e444286-cab4-46a4-bfa3-a6d55b3ffcfb" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0" Mic1Pan="0" Mic0Level="0.594604" Mic1Level="0.594604" Mic0XAxis="-0.028571" Mic1XAxis="0.8" Mic0YAxis="0" Mic1YAxis="0" Mic0Distance="0.028571" Mic1Distance="0.014286" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabB>
+    <RackA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="9f1147a6-302f-48f3-a5bc-26cc5d399a8b" Rack1="1189979a-db5d-4dc1-9228-7bd974d8a8c5" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 Bypass="0" BassGain="1" BassFreq="100" BassQ="0.7" MidGain="1.17574" MidFreq="1000" MidQ="0.278796" HighGain="1" HighFreq="8000" HighQ="0.7" OutLevel="1.38237" />
+        <Slot1 Bypass="0" Mode="ST" DelayTime="500" Feedback="25.7813" Filter="1584.77" Mix="12.8125" OutLevel="1" BPMSync="1" BPMMeter="1/4" />
+        <Slot2 />
+        <Slot3 />
+    </RackA>
+    <RackB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackB>
+    <Output Output="1" />
+    <MidiAssignments />
+    <MetaInfo Description="AmpliTube Joe Satriani factory preset" Style="Rock" SoundCharacter="Other" Instrument="Other" Body="Solid Body" PickUpPosition="None" Artist="Joe Satriani" Band="" Song="" SongStructureElement="None" KeyWords="Joe Satriani" Type="Electric Guitar" />
+</Preset>

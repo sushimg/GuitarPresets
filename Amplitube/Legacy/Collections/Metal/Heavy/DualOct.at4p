@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Preset Version="1.000000" Format="at4p" GUID="8526b94c-d17e-4288-beb3-49fe9b314687" PresetBPM="120.000000" ProgramChange="-1">
+    <Chain Preset="1" StereoInput="0" />
+    <Input Input="1.000000" GateThreshold="0.000010" GateRelease="200.000000" GateDepth="-60.000000" />
+    <Tuner OutputVolume="1.000000" Bypass="1" Mute="0" TunerType="354eca51-457a-41b7-917d-ce6117586905">
+        <Tuner />
+    </Tuner>
+    <StompA Bypass="0" Mute="0" OutputVolume="1.000000" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="9b672f82-2832-4134-8db7-5cb9147c69a3" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 Bypass="0" Dist="2.578125" Filter="3.203125" Volume="5.000000" />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompA>
+    <StompB Bypass="0" Mute="0" OutputVolume="1.000000" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="9b8e89e2-2959-41b2-90eb-dc5de12964d0" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 Bypass="0" Mode="Harm" Pedal="0.000000" Harm="^5th ^7th" Bend="^Oct" />
+        <Slot4 />
+        <Slot5 />
+    </StompB>
+    <AmpA Bypass="0" Mute="0" OutputVolume="1.000000" Model="1b5961b1-f862-4c8a-9a9b-a920da8c5cc2">
+        <Amp AmpFlexiGain="7.812500" AmpFlexiBass="5.000000" AmpFlexiMid="5.000000" AmpFlexiTreble="3.437500" AmpFlexiPresence="7.265625" AmpFlexiReverb="1.250000" AmpFlexiVolume="4.843750" AmpFlexiEqModel="adfff9d9-0883-4847-884d-ea7c74f125d7" AmpFlexiPowerAmpModel="7046affb-0d3a-4845-b3dc-246147a558b3" />
+    </AmpA>
+    <AmpB Bypass="0" Mute="0" OutputVolume="1.000000" Model="9400d18f-5f72-40ac-aa37-861ba3f18da5">
+        <Amp AmpFlexiEqModel="1c319395-dfe4-4610-a0bc-58c494b1a2c3" AmpFlexiPowerAmpModel="66658257-57d9-4798-b424-ef4b7cf9f58e" AmpFlexiGain="7.109375" AmpFlexiBass="7.109375" AmpFlexiMid="5.000000" AmpFlexiTreble="5.000000" AmpFlexiPresence="5.000000" AmpFlexiReverb="1.250000" AmpFlexiVolume="6.015625" />
+    </AmpB>
+    <LoopFxA Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxA>
+    <LoopFXB Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFXB>
+    <CabA Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.000000" DryLevel="0" OutputPhase="-0.625000" CabModel="8b147712-d44d-4564-a40f-fe288110ea6c" NumSpeaker12Inch="No12InchSpeaker" SpeakerModel0="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa" SpeakerModel1="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa" SpeakerModel2="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa" SpeakerModel3="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa">
+        <Cab RoomType="Mid Studio" MicsBalance="0.000000" Mic0Model="0f35a776-f6db-403d-930f-6b7f42fed749" Mic1Model="00000000-0000-0000-0000-000000000000" Mic0Mute="0" Mic1Mute="1" Size="100.000000" HighLevel="0.770000" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50.000000" RoomPan="0.000000" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0.000000" Mic1Pan="0.000000" Mic0XAxis="0" Mic0Speaker="0" Mic1XAxis="0.8" Mic1Speaker="1" Mic0Distance="0.000000" Mic1Distance="0.014286" RoomLevel="0" Mic0Level="1" Mic1Level="0" />
+    </CabA>
+    <CabB Bypass="0" Mute="0" OutputVolume="1.084317" OutputPan="1.000000" DryLevel="0" OutputPhase="0.625000" CabModel="3ba28c86-3f78-4571-941a-12251b45eba4" NumSpeaker12Inch="No12InchSpeaker" SpeakerModel0="a5cad4f1-d3b1-44ce-af6f-6b4c2094cddc" SpeakerModel1="a5cad4f1-d3b1-44ce-af6f-6b4c2094cddc" SpeakerModel2="a5cad4f1-d3b1-44ce-af6f-6b4c2094cddc" SpeakerModel3="a5cad4f1-d3b1-44ce-af6f-6b4c2094cddc">
+        <Cab RoomType="Mid Studio" MicsBalance="0.000000" Mic0Model="0f35a776-f6db-403d-930f-6b7f42fed749" Mic1Model="00000000-0000-0000-0000-000000000000" Mic0Mute="0" Mic1Mute="1" Size="100.000000" HighLevel="0.770000" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50.000000" RoomPan="0.000000" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0.000000" Mic1Pan="0.000000" Mic0XAxis="-1" Mic0Speaker="0" Mic1XAxis="0.8" Mic1Speaker="1" Mic0Distance="0.000000" Mic1Distance="0.014286" RoomLevel="0.211268" Mic0Level="1" Mic1Level="0" />
+    </CabB>
+    <RackA Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" Rack0="1189979a-db5d-4dc1-9228-7bd974d8a8c5" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 Bypass="0" Mode="LCR" DelayTime="500" Feedback="14.843750" Filter="1830.058472" Mix="20.625002" OutLevel="1.000000" BPMSync="1" BPMMeter="1/4" />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackA>
+    <RackB Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" Rack0="1189979a-db5d-4dc1-9228-7bd974d8a8c5" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 Bypass="0" Mode="LCR" DelayTime="83" Feedback="46.875000" Filter="1830.058472" Mix="20.625002" OutLevel="1.000000" BPMSync="1" BPMMeter="1/16t" />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackB>
+    <Output Output="1.175743" />
+    <MetaInfo Description="IK Multimedia Factory Preset" Style="Metal" SoundCharacter="Hard" Instrument="H-S-H (Superstr.)" Body="Solid Body" PickUpPosition="None" Artist="AmpliTube Metal" Band="" Song="" SongStructureElement="None" KeyWords="Metal Lead T Vintage Metal Lead PROdrive overdrive distortion Wharmonator whammy pitch harmonizer Digital Delay echo rack" Type="Electric Guitar" />
+</Preset>

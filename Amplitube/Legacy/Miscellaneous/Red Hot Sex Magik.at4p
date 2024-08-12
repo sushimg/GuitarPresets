@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<Preset Version="1.000000" Format="at4p" GUID="c34d64e8-6b46-49a9-bc35-3b1cbf1c46aa" PresetBPM="120.000000" ProgramChange="-1">
+    <Chain Preset="0" StereoInput="0" />
+    <Input Input="1.000000" GateThreshold="0.000010" GateRelease="200.000000" GateDepth="-60.000000" />
+    <Tuner Bypass="1" Mute="0" OutputVolume="1.000000" TunerType="354eca51-457a-41b7-917d-ce6117586905">
+        <Tuner />
+    </Tuner>
+    <StompA Bypass="0" Mute="0" OutputVolume="1.000000" Stomp0="58dbec22-58e0-464c-8c04-91fb9d9973e2" Stomp1="510f6d25-6ec4-417b-bf58-0f8028209cce" Stomp2="26c75920-d4bf-4e5e-900f-f78c70e06c17" Stomp3="a4ed5e25-707d-40ef-9846-64eeb820aeea" Stomp4="2de5239a-78d6-4a01-82e6-2ea3afb60501" Stomp5="2a9ef349-fb29-4e66-99a9-cc66d10192cc">
+        <Slot0 Bypass="1" Sustain="3.000000" Volume="0.500000" Tone="7.000000" />
+        <Slot1 Bypass="1" Distortion="5.000000" Volume="5.000000" Tone="5.000000" />
+        <Slot2 Bypass="0" Output="0.501187" Sensitivity="5.000000" />
+        <Slot3 Bypass="1" Speed="5.050000" />
+        <Slot4 Bypass="1" Depth="5.000000" Wah="42.187500" GuitarBass="1" />
+        <Slot5 Bypass="1" Level="1.584893" Chorus="0.000000" VibratoDepth="5.000000" VibratoRate="2.000000" Mode="Chorus" />
+    </StompA>
+    <StompB Bypass="0" Mute="0" OutputVolume="1.000000" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompB>
+    <AmpA Bypass="0" Mute="0" OutputVolume="1.000000" Model="e1eed2cf-6777-46c4-ada2-65df0d7afc46">
+        <Amp Bass_MarshallMajor="2.500000" Mid_MarshallMajor="2.500000" Treble_MarshallMajor="1.015625" Presence_MarshallMajor="1.015625" Loudness1_MarshallMajor="2.600000" Loudness2_MarshallMajor="2.500000" Channel_MarshallMajor="0" Bridge_MarshallMajor="0" ChannelDSP_MarshallMajor="1.000000" />
+    </AmpA>
+    <AmpB Bypass="1" Mute="0" OutputVolume="1.000000" Model="71a76a9f-cf70-4f59-971f-9864a055523c">
+        <Amp AmpFlexiGain="5.000000" AmpFlexiBass="5.000000" AmpFlexiMid="5.000000" AmpFlexiTreble="5.000000" AmpFlexiPresence="5.000000" AmpFlexiReverb="1.250000" AmpFlexiVolume="5.000000" AmpFlexiEqModel="63993d7b-8cd0-4b72-bfe3-69951ef3e74a" AmpFlexiPowerAmpModel="a14c1f1e-be21-409d-9eb1-e9e2216c2b27" />
+    </AmpB>
+    <LoopFxA Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxA>
+    <LoopFxB Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxB>
+    <CabA Bypass="0" Mute="0" OutputVolume="1.778279" OutputPan="0.500000" DryLevel="0.000000" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0.000000" CabModel="7c0b8ce1-cbb4-4e5b-9973-a572143ddb2b" SpeakerModel0="e372dd04-b11d-4958-8c29-0fbe341e97ca" SpeakerModel1="e372dd04-b11d-4958-8c29-0fbe341e97ca" SpeakerModel2="e372dd04-b11d-4958-8c29-0fbe341e97ca" SpeakerModel3="e372dd04-b11d-4958-8c29-0fbe341e97ca">
+        <Cab Size="100.000000" HighLevel="0.770000" RoomType="Large Studio" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50.000000" RoomPan="0.000000" RoomLevel="0.125893" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="00000000-0000-0000-0000-000000000000" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0.000000" Mic1Pan="0.000000" Mic0Level="1.778279" Mic1Level="0.000000" Mic0XAxis="-0.956522" Mic1XAxis="0.000000" Mic0YAxis="0.326087" Mic1YAxis="-0.006579" Mic0Distance="0.781250" Mic1Distance="0.000000" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabA>
+    <CabB Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" DryLevel="0.000000" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0.000000" CabModel="9fa8c924-6543-4085-b55b-58b99aada17e" SpeakerModel0="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel1="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel2="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel3="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83">
+        <Cab Size="100.000000" HighLevel="0.770000" RoomType="Mid Studio" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50.000000" RoomPan="0.000000" RoomLevel="0.076923" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="9e444286-cab4-46a4-bfa3-a6d55b3ffcfb" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0.000000" Mic1Pan="0.000000" Mic0Level="0.594604" Mic1Level="0.594604" Mic0XAxis="-0.028571" Mic1XAxis="0.800000" Mic0YAxis="0.000000" Mic1YAxis="0.000000" Mic0Distance="0.028571" Mic1Distance="0.014286" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabB>
+    <RackA Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackA>
+    <RackB Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackB>
+    <Output Output="1.000000" />
+    <MidiAssignments />
+    <MetaInfo Description="IK Multimedia Factory Preset" Style="Alternative" SoundCharacter="Clean" Instrument="S-S-S (Str.)" Body="Solid Body" PickUpPosition="Neck" Artist="IK Multimedia" Band="" Song="" SongStructureElement="None" KeyWords="Brit Red Pig BigPig overdrive Distortion DS Wah Chorus-1 vibrato 10 Phaze Nine phaser" Type="Electric Guitar" />
+</Preset>

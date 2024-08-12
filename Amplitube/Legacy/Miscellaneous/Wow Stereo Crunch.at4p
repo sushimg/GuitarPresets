@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<Preset Version="1.000000" Format="at4p" GUID="0914b94d-de25-403d-9627-ab778c162423" PresetBPM="120.000000" ProgramChange="-1">
+    <Chain Preset="1" StereoInput="1" />
+    <Input Input="1.000000" GateThreshold="0.000010" GateRelease="200.000000" GateDepth="-60.000000" />
+    <Tuner Bypass="1" Mute="0" OutputVolume="1.000000" TunerType="354eca51-457a-41b7-917d-ce6117586905">
+        <Tuner />
+    </Tuner>
+    <StompA Bypass="0" Mute="0" OutputVolume="1.000000" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompA>
+    <StompB Bypass="0" Mute="0" OutputVolume="1.000000" Stomp0="e11b1dc5-1f7d-42ad-af30-0539b3646b3c" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 Bypass="0" Delay="10" Feedback="0.000000" Level="10.000000" BPMSync="0" BPMMeter="1/32" />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompB>
+    <AmpA Bypass="0" Mute="0" OutputVolume="1.000000" Model="e1eed2cf-6777-46c4-ada2-65df0d7afc46">
+        <Amp Bass_MarshallMajor="5.000000" Mid_MarshallMajor="5.000000" Treble_MarshallMajor="5.000000" Presence_MarshallMajor="5.000000" Loudness1_MarshallMajor="5.000000" Loudness2_MarshallMajor="3.000000" Channel_MarshallMajor="0" Bridge_MarshallMajor="1" ChannelDSP_MarshallMajor="3.000000" />
+    </AmpA>
+    <AmpB Bypass="0" Mute="0" OutputVolume="1.000000" Model="e1eed2cf-6777-46c4-ada2-65df0d7afc46">
+        <Amp Bass_MarshallMajor="5.000000" Mid_MarshallMajor="5.000000" Treble_MarshallMajor="5.000000" Presence_MarshallMajor="5.000000" Loudness1_MarshallMajor="5.000000" Loudness2_MarshallMajor="4.000000" Channel_MarshallMajor="0" Bridge_MarshallMajor="1" ChannelDSP_MarshallMajor="3.000000" />
+    </AmpB>
+    <LoopFxA Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxA>
+    <LoopFxB Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxB>
+    <CabA Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" DryLevel="0.000000" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0.000000" CabModel="6dfb576f-b549-4dd4-ac79-1021bcb53bb2" SpeakerModel0="942153d2-81fb-4b08-9fc2-0e07a34e9ca7" SpeakerModel1="942153d2-81fb-4b08-9fc2-0e07a34e9ca7" SpeakerModel2="942153d2-81fb-4b08-9fc2-0e07a34e9ca7" SpeakerModel3="942153d2-81fb-4b08-9fc2-0e07a34e9ca7">
+        <Cab Size="100.000000" HighLevel="0.770000" RoomType="Amp Closet" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50.000000" RoomPan="0.000000" RoomLevel="0.076923" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="9e444286-cab4-46a4-bfa3-a6d55b3ffcfb" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0.000000" Mic1Pan="0.000000" Mic0Level="0.594604" Mic1Level="0.594604" Mic0XAxis="-0.028571" Mic1XAxis="0.800000" Mic0YAxis="0.000000" Mic1YAxis="0.000000" Mic0Distance="0.028571" Mic1Distance="0.014286" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabA>
+    <CabB Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" DryLevel="0.000000" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0.000000" CabModel="6dfb576f-b549-4dd4-ac79-1021bcb53bb2" SpeakerModel0="942153d2-81fb-4b08-9fc2-0e07a34e9ca7" SpeakerModel1="942153d2-81fb-4b08-9fc2-0e07a34e9ca7" SpeakerModel2="942153d2-81fb-4b08-9fc2-0e07a34e9ca7" SpeakerModel3="942153d2-81fb-4b08-9fc2-0e07a34e9ca7">
+        <Cab Size="100.000000" HighLevel="0.770000" RoomType="Amp Closet" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50.000000" RoomPan="0.000000" RoomLevel="0.076923" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="9e444286-cab4-46a4-bfa3-a6d55b3ffcfb" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0.000000" Mic1Pan="0.000000" Mic0Level="0.594604" Mic1Level="0.594604" Mic0XAxis="-0.028571" Mic1XAxis="0.800000" Mic0YAxis="0.000000" Mic1YAxis="0.000000" Mic0Distance="0.028571" Mic1Distance="0.014286" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabB>
+    <RackA Bypass="0" Mute="0" OutputVolume="1.584893" OutputPan="0.000000" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackA>
+    <RackB Bypass="0" Mute="0" OutputVolume="1.995262" OutputPan="1.000000" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackB>
+    <Output Output="1.000000" />
+    <MidiAssignments />
+    <MetaInfo Description="IK Multimedia Factory Preset" Style="Other" SoundCharacter="Crunch" Instrument="Other" Body="Other" PickUpPosition="Other" Artist="IK Multimedia" Band="" Song="" SongStructureElement="None" KeyWords="Brit Red Pig CS Delay echo" Type="Electric Guitar" />
+</Preset>
