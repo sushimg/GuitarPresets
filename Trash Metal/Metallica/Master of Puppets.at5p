@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
-<Preset Version="2" Format="at5p" GUID="a8c42d36-6ef3-4467-a767-33c4e5eb0d45" PresetBPM="120" ProgramChange="-1">
+<Preset Version="2" Format="at5p" GUID="d211cd02-6df9-482e-8262-d6daa4c38ea8" PresetBPM="120" ProgramChange="-1">
     <Chain Preset="Chain11" DIBeforeAmp="0" />
     <Input Input="1" />
     <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="354eca51-457a-41b7-917d-ce6117586905">
         <Tuner Reference="440" NoteReferemce="A" Transpose="0" Temperament="Equal" />
     </Tuner>
     <StompA1 Bypass="0" Mute="0" OutputVolume="1" Stomp0="e2b29e5c-33a0-41f0-9d54-dc749d371fe0" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
-        <Slot0 Bypass="0" FullScreen="0" Coarse="-2" Fine="5" Level="10" />
+        <Slot0 Bypass="1" FullScreen="0" Coarse="-2" Fine="5" Level="10" />
         <Slot1 />
         <Slot2 />
         <Slot3 />

@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<Preset Version="2" Format="at5p" GUID="f43357a9-c0fd-4a42-89a0-07fb2975e1c2" PresetBPM="120" ProgramChange="-1">
+<Preset Version="2" Format="at5p" GUID="23b6668e-36e2-4b88-93ea-37abc781caa2" PresetBPM="120" ProgramChange="-1">
     <Chain Preset="Chain11" DIBeforeAmp="0" />
     <Input Input="1" />
     <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="354eca51-457a-41b7-917d-ce6117586905">
@@ -28,7 +28,7 @@
     </StompStereo>
     <StompB1 Bypass="0" Mute="0" OutputVolume="1" Stomp0="0455f997-43ca-4c9b-9269-286a19d10d48" Stomp1="fa1de2e2-102b-4edf-b3b5-23ceaeddedf0" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
         <Slot0 Bypass="0" FullScreen="0" Threshold="0.00177019" Release="200" Depth="-60" />
-        <Slot1 Bypass="0" FullScreen="0" Drive="2.07241" Level="10" Tone="10" />
+        <Slot1 Bypass="0" FullScreen="0" Drive="2.07241" Level="6" Tone="10" />
         <Slot2 />
         <Slot3 />
         <Slot4 />
@@ -60,7 +60,7 @@
         <Amp Sensitivity_JCM800AT4="1" Presence_JCM800AT4="5" Bass_JCM800AT4="4" Middle_JCM800AT4="5" Treble_JCM800AT4="6" Master_JCM800AT4="5.5" PreAmp_JCM800AT4="5" />
     </AmpC>
     <LoopFxA Bypass="0" Mute="0" OutputVolume="1" Stomp0="b66b51c2-d9a3-4909-b7e0-cd1e51636e97" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
-        <Slot0 Bypass="0" FullScreen="0" Band20="0" Band25="0" Band31="0" Band40="0" Band50="0" Band63="0" Band80="0" Band100="0" Band125="0" Band160="0" Band200="0" Band250="0" Band315="0.37037" Band400="-4.44445" Band500="-1.85185" Band630="-3.33333" Band800="1.85185" Band1000="4.07407" Band1250="2.59259" Band1600="0" Band2000="-0.370369" Band2500="-0.370368" Band3150="1.90735e-06" Band4000="1.90735e-06" Band5000="-0.37037" Band6300="0" Band8000="0" Band10000="0" Band12500="0" Band16000="0" Band20000="0" OutLevel="0" Mode_GraphicEQ="Hi" />
+        <Slot0 Bypass="0" FullScreen="0" Band20="0" Band25="0" Band31="0" Band40="0" Band50="0" Band63="0" Band80="0" Band100="0" Band125="0" Band160="0" Band200="-1.05469" Band250="0" Band315="0.37037" Band400="-4.44445" Band500="-5.18519" Band630="-4.44444" Band800="-2.22222" Band1000="-0.740746" Band1250="-0.370372" Band1600="0.37037" Band2000="-0.370369" Band2500="-0.370368" Band3150="1.90735e-06" Band4000="1.90735e-06" Band5000="-0.37037" Band6300="0" Band8000="0" Band10000="0" Band12500="0" Band16000="0" Band20000="0" OutLevel="-1.05469" Mode_GraphicEQ="Mid" />
         <Slot1 />
         <Slot2 />
         <Slot3 />
