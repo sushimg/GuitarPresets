@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<Preset Version="2" Format="at5p" GUID="c30bf3d5-346c-4fca-a785-f4944e45a78a" PresetBPM="120" ProgramChange="-1">
+<Preset Version="2" Format="at5p" GUID="3b50e1e6-7ad6-4ea2-b800-19cf3957a4dc" PresetBPM="120" ProgramChange="-1">
     <Chain Preset="Chain11" DIBeforeAmp="0" />
     <Input Input="1.05486" />
     <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="354eca51-457a-41b7-917d-ce6117586905">
@@ -51,7 +51,7 @@
         <Slot5 />
     </StompB3>
     <AmpA Bypass="0" Mute="0" OutputVolume="1" Model="cbf3c00f-dc31-4c7f-a409-f7fdbca005a8">
-        <Amp PowerSelect_JCM900AT4="1" Presence_JCM900AT4="1" Bass_JCM900AT4="2.71729" Middle_JCM900AT4="0.16" Treble_JCM900AT4="6.50885" MasterVolumeA_JCM900AT4="1.95559" Sensitivity_JCM900AT4="6.04122" PreAmp_JCM900AT4="8.22312" />
+        <Amp PowerSelect_JCM900AT4="1" Presence_JCM900AT4="1" Bass_JCM900AT4="2.71729" Middle_JCM900AT4="1" Treble_JCM900AT4="6.50885" MasterVolumeA_JCM900AT4="1.95559" Sensitivity_JCM900AT4="4.52122" PreAmp_JCM900AT4="5.02606" />
     </AmpA>
     <AmpB Bypass="0" Mute="0" OutputVolume="1" Model="8fe96936-5178-4950-9b80-d89c32534bad">
         <Amp Sensitivity_JCM800AT4="1" Presence_JCM800AT4="5" Bass_JCM800AT4="4" Middle_JCM800AT4="5" Treble_JCM800AT4="6" Master_JCM800AT4="5.5" PreAmp_JCM800AT4="5" />

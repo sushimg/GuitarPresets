@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
-<Preset Version="2" Format="at5p" GUID="8c4a4157-20b5-47ac-87e0-b646c94cf2b0" PresetBPM="120" ProgramChange="-1">
+<Preset Version="2" Format="at5p" GUID="baa934c3-8d21-49ae-a0c7-4835fd440bdf" PresetBPM="120" ProgramChange="-1">
     <Chain Preset="Chain11Split" DIBeforeAmp="0" />
     <Input Input="1" />
     <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="354eca51-457a-41b7-917d-ce6117586905">
         <Tuner Reference="440" NoteReferemce="A" Transpose="0" Temperament="Equal" />
     </Tuner>
     <StompA1 Bypass="0" Mute="0" OutputVolume="1" Stomp0="e2b29e5c-33a0-41f0-9d54-dc749d371fe0" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
-        <Slot0 Bypass="0" FullScreen="0" Coarse="-4" Fine="0" Level="10" />
+        <Slot0 Bypass="1" FullScreen="0" Coarse="-4" Fine="0" Level="10" />
         <Slot1 />
         <Slot2 />
         <Slot3 />
@@ -104,7 +104,7 @@
         <Slot1 />
     </RackDI>
     <RackMaster Bypass="0" Mute="0" OutputVolume="1" Stomp0="1189979a-db5d-4dc1-9228-7bd974d8a8c5" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
-        <Slot0 Bypass="0" FullScreen="0" Mode="LR" DelayTime="166" Feedback="37.6384" Filter="1830.06" Mix="23.5807" OutLevel="1" BPMSync="1" BPMMeter="1/8t" />
+        <Slot0 Bypass="0" FullScreen="0" Mode="LR" DelayTime="200" Feedback="37.6384" Filter="1830.06" Mix="23.5807" OutLevel="1" BPMSync="1" BPMMeter="1/8t" />
         <Slot1 />
         <Slot2 />
         <Slot3 />
