@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<Preset Version="2" Format="at5p" GUID="acbb6423-38dd-4190-bdff-d6cc4100c3c5" PresetBPM="120" ProgramChange="-1">
+<Preset Version="2" Format="at5p" GUID="b27d6b6b-0132-4b08-989d-2f529e6526fa" PresetBPM="120" ProgramChange="-1">
     <Chain Preset="Chain11Split" DIBeforeAmp="0" />
     <Input Input="1.81056" />
     <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="354eca51-457a-41b7-917d-ce6117586905">
@@ -105,7 +105,7 @@
     </RackDI>
     <RackMaster Bypass="0" Mute="0" OutputVolume="1" Stomp0="59ab0817-b168-4bdc-b837-e3cba1efb2dd" Stomp1="1189979a-db5d-4dc1-9228-7bd974d8a8c5" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
         <Slot0 Bypass="0" FullScreen="0" DecayTime="4.05749" Density="75.2594" Color="5637.21" Mix="5.59693" OutLevel="1" />
-        <Slot1 Bypass="0" FullScreen="0" Mode="LCR" DelayTime="500" Feedback="46.875" Filter="1830.06" Mix="20.625" OutLevel="1" BPMSync="1" BPMMeter="1/4" />
+        <Slot1 Bypass="0" FullScreen="0" Mode="Mono" DelayTime="631" Feedback="46.875" Filter="1830.06" Mix="15.5046" OutLevel="1" BPMSync="1" BPMMeter="1/4" />
         <Slot2 />
         <Slot3 />
         <Slot4 />
