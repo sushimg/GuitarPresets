@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<Preset Version="2" Format="at5p" GUID="067081a4-2bc0-4b62-a733-99abefd88f2d" PresetBPM="120" ProgramChange="-1">
+<Preset Version="2" Format="at5p" GUID="e3125892-c308-4a87-9c9f-708836ae7a20" PresetBPM="120" ProgramChange="-1">
     <Chain Preset="Chain13" DIBeforeAmp="0" />
     <Input Input="1" />
     <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="354eca51-457a-41b7-917d-ce6117586905">
@@ -51,13 +51,13 @@
         <Slot5 />
     </StompB3>
     <AmpA Bypass="0" Mute="0" OutputVolume="1" Model="8fe96936-5178-4950-9b80-d89c32534bad">
-        <Amp Sensitivity_JCM800AT4="0" Presence_JCM800AT4="3.51128" Bass_JCM800AT4="7.00568" Middle_JCM800AT4="1.47498" Treble_JCM800AT4="6.54375" Master_JCM800AT4="1.47181" PreAmp_JCM800AT4="7.50799" />
+        <Amp Sensitivity_JCM800AT4="0" Presence_JCM800AT4="3.03128" Bass_JCM800AT4="7.00568" Middle_JCM800AT4="1.47498" Treble_JCM800AT4="6.54375" Master_JCM800AT4="1.47181" PreAmp_JCM800AT4="7.50799" />
     </AmpA>
     <AmpB Bypass="0" Mute="0" OutputVolume="1" Model="8fe96936-5178-4950-9b80-d89c32534bad">
-        <Amp Sensitivity_JCM800AT4="0" Presence_JCM800AT4="3.02201" Bass_JCM800AT4="6.97394" Middle_JCM800AT4="1.02727" Treble_JCM800AT4="4.95602" Master_JCM800AT4="1.97614" PreAmp_JCM800AT4="6.97748" />
+        <Amp Sensitivity_JCM800AT4="0" Presence_JCM800AT4="3.98201" Bass_JCM800AT4="6.97394" Middle_JCM800AT4="1.02727" Treble_JCM800AT4="4.95602" Master_JCM800AT4="1.97614" PreAmp_JCM800AT4="6.97748" />
     </AmpB>
     <AmpC Bypass="0" Mute="0" OutputVolume="1" Model="8fe96936-5178-4950-9b80-d89c32534bad">
-        <Amp Sensitivity_JCM800AT4="0" Presence_JCM800AT4="3.02201" Bass_JCM800AT4="6.97394" Middle_JCM800AT4="0.998488" Treble_JCM800AT4="4.95602" Master_JCM800AT4="1.97614" PreAmp_JCM800AT4="6.97748" />
+        <Amp Sensitivity_JCM800AT4="0" Presence_JCM800AT4="4.02201" Bass_JCM800AT4="6.97394" Middle_JCM800AT4="0.998488" Treble_JCM800AT4="4.95602" Master_JCM800AT4="1.97614" PreAmp_JCM800AT4="6.97748" />
     </AmpC>
     <LoopFxA Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
         <Slot0 />

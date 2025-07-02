@@ -1,14 +1,14 @@
 <?xml version="1.0" ?>
-<Preset Version="2" Format="at5p" GUID="b1f49ebc-73e3-4b3a-b920-dc0ae0c75d6b" PresetBPM="120" ProgramChange="-1">
+<Preset Version="2" Format="at5p" GUID="c0fca76a-e3e1-45eb-a391-1daaf71426b9" PresetBPM="120" ProgramChange="-1">
     <Chain Preset="Chain12" DIBeforeAmp="0" />
     <Input Input="1" />
     <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="354eca51-457a-41b7-917d-ce6117586905">
         <Tuner Reference="440" NoteReferemce="A" Transpose="0" Temperament="Equal" />
     </Tuner>
-    <StompA1 Bypass="0" Mute="0" OutputVolume="1" Stomp0="0455f997-43ca-4c9b-9269-286a19d10d48" Stomp1="fa1de2e2-102b-4edf-b3b5-23ceaeddedf0" Stomp2="fd627f5e-ba11-4082-b546-a4f0b05985ff" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+    <StompA1 Bypass="0" Mute="0" OutputVolume="1" Stomp0="0455f997-43ca-4c9b-9269-286a19d10d48" Stomp1="fa1de2e2-102b-4edf-b3b5-23ceaeddedf0" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
         <Slot0 Bypass="0" FullScreen="0" Threshold="0.000828044" Release="200" Depth="-60" />
         <Slot1 Bypass="0" FullScreen="0" Drive="10" Level="10" Tone="10" />
-        <Slot2 Bypass="0" FullScreen="0" Drive="5" Level="10" Tone="10" />
+        <Slot2 />
         <Slot3 />
         <Slot4 />
         <Slot5 />
@@ -51,10 +51,10 @@
         <Slot5 />
     </StompB3>
     <AmpA Bypass="0" Mute="0" OutputVolume="1" Model="1e170e52-9ff7-40ff-995f-fab2cdef7cf5">
-        <Amp Channel_Peavey5150Satriani="0" Ch1_PreGain_Peavey5150Satriani="3.96" Ch1_Bright_Peavey5150Satriani="1" Ch1_Crunch_Peavey5150Satriani="0" Ch1_Low_Peavey5150Satriani="4.48" Ch1_Mid_Peavey5150Satriani="4" Ch1_High_Peavey5150Satriani="4.48" Ch1_PostGain_Peavey5150Satriani="6.96" Ch2_PreGain_Peavey5150Satriani="4" Ch2_Low_Peavey5150Satriani="5" Ch2_Mid_Peavey5150Satriani="5" Ch2_High_Peavey5150Satriani="5" Ch2_PostGain_Peavey5150Satriani="8" Resonance_Peavey5150Satriani="8" Presence_Peavey5150Satriani="6.96" />
+        <Amp Channel_Peavey5150Satriani="0" Ch1_PreGain_Peavey5150Satriani="3.96" Ch1_Bright_Peavey5150Satriani="1" Ch1_Crunch_Peavey5150Satriani="0" Ch1_Low_Peavey5150Satriani="4.48" Ch1_Mid_Peavey5150Satriani="5" Ch1_High_Peavey5150Satriani="4.48" Ch1_PostGain_Peavey5150Satriani="6.96" Ch2_PreGain_Peavey5150Satriani="4" Ch2_Low_Peavey5150Satriani="5" Ch2_Mid_Peavey5150Satriani="5" Ch2_High_Peavey5150Satriani="5" Ch2_PostGain_Peavey5150Satriani="8" Resonance_Peavey5150Satriani="8" Presence_Peavey5150Satriani="6.96" />
     </AmpA>
     <AmpB Bypass="0" Mute="0" OutputVolume="1" Model="8fe96936-5178-4950-9b80-d89c32534bad">
-        <Amp Sensitivity_JCM800AT4="0" Presence_JCM800AT4="7" Bass_JCM800AT4="3.46998" Middle_JCM800AT4="4" Treble_JCM800AT4="5.52" Master_JCM800AT4="5.04064" PreAmp_JCM800AT4="8.08" />
+        <Amp Sensitivity_JCM800AT4="0" Presence_JCM800AT4="6" Bass_JCM800AT4="3.46998" Middle_JCM800AT4="4" Treble_JCM800AT4="5.52" Master_JCM800AT4="5.04064" PreAmp_JCM800AT4="8.08" />
     </AmpB>
     <AmpC Bypass="0" Mute="0" OutputVolume="1" Model="8fe96936-5178-4950-9b80-d89c32534bad">
         <Amp Sensitivity_JCM800AT4="1" Presence_JCM800AT4="5" Bass_JCM800AT4="4" Middle_JCM800AT4="5" Treble_JCM800AT4="6" Master_JCM800AT4="5.5" PreAmp_JCM800AT4="5" />
@@ -78,10 +78,10 @@
         <Slot3 />
     </LoopFxC>
     <CabA Bypass="0" Mute="0" CabModel="f27bb786-76cd-472f-ad96-e329e50f32f7" SpeakerModel0="a56188a9a6bc4373903dbbde779548f1" SpeakerModel1="a56188a9a6bc4373903dbbde779548f1" SpeakerModel2="a56188a9a6bc4373903dbbde779548f1" SpeakerModel3="a56188a9a6bc4373903dbbde779548f1" IRDecimation="1">
-        <Cab HighLevel="0.77" RoomType="Small Studio" RoomMicType="Condenser 170" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="9f8a2c8c-aa21-43ab-a316-5084479de02e" Mic0Angle="0" Mic1Angle="0" Mic0XAxis="-0.457651" Mic1XAxis="-0.537779" Mic0YAxis="-0.264008" Mic1YAxis="0.843085" Mic0Distance="0.985938" Mic1Distance="0.25" Mic0Speaker="0" Mic1Speaker="1" GUILoadComplete="0" />
+        <Cab HighLevel="0.77" RoomType="Amp Closet" RoomMicType="Condenser 170" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="9f8a2c8c-aa21-43ab-a316-5084479de02e" Mic0Angle="0" Mic1Angle="0" Mic0XAxis="-0.457651" Mic1XAxis="-0.537779" Mic0YAxis="-0.264008" Mic1YAxis="0.843085" Mic0Distance="0.985938" Mic1Distance="0.25" Mic0Speaker="0" Mic1Speaker="1" GUILoadComplete="0" />
     </CabA>
     <CabB Bypass="0" Mute="0" CabModel="7c0b8ce1-cbb4-4e5b-9973-a572143ddb2b" SpeakerModel0="942153d281fb4b089fc20e07a34e9ca7" SpeakerModel1="942153d281fb4b089fc20e07a34e9ca7" SpeakerModel2="942153d281fb4b089fc20e07a34e9ca7" SpeakerModel3="942153d281fb4b089fc20e07a34e9ca7" IRDecimation="1">
-        <Cab HighLevel="0.77" RoomType="Small Studio" RoomMicType="Condenser 87" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="9e444286-cab4-46a4-bfa3-a6d55b3ffcfb" Mic0Angle="0" Mic1Angle="0" Mic0XAxis="-0.0179754" Mic1XAxis="0.328533" Mic0YAxis="0.285712" Mic1YAxis="0.829779" Mic0Distance="0.952593" Mic1Distance="0.217105" Mic0Speaker="0" Mic1Speaker="1" GUILoadComplete="0" />
+        <Cab HighLevel="0.77" RoomType="Amp Closet" RoomMicType="Condenser 87" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="9e444286-cab4-46a4-bfa3-a6d55b3ffcfb" Mic0Angle="0" Mic1Angle="0" Mic0XAxis="-0.0179754" Mic1XAxis="0.328533" Mic0YAxis="0.285712" Mic1YAxis="0.829779" Mic0Distance="0.952593" Mic1Distance="0.217105" Mic0Speaker="0" Mic1Speaker="1" GUILoadComplete="0" />
     </CabB>
     <CabC Bypass="0" Mute="0" CabModel="7c0b8ce1-cbb4-4e5b-9973-a572143ddb2b" SpeakerModel0="942153d281fb4b089fc20e07a34e9ca7" SpeakerModel1="942153d281fb4b089fc20e07a34e9ca7" SpeakerModel2="942153d281fb4b089fc20e07a34e9ca7" SpeakerModel3="942153d281fb4b089fc20e07a34e9ca7" IRDecimation="1">
         <Cab HighLevel="0.77" RoomType="Large Studio" RoomMicType="Condenser 87" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="9e444286-cab4-46a4-bfa3-a6d55b3ffcfb" Mic0Angle="0" Mic1Angle="0" Mic0XAxis="0.0134551" Mic1XAxis="0.164812" Mic0YAxis="-0.213863" Mic1YAxis="0.416267" Mic0Distance="0" Mic1Distance="0.131415" Mic0Speaker="0" Mic1Speaker="1" GUILoadComplete="0" />
@@ -104,7 +104,7 @@
         <Slot1 />
     </RackDI>
     <RackMaster Bypass="0" Mute="0" OutputVolume="1" Stomp0="1189979a-db5d-4dc1-9228-7bd974d8a8c5" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
-        <Slot0 Bypass="0" FullScreen="0" Mode="Mono" DelayTime="250" Feedback="44.875" Filter="1830.06" Mix="14.6849" OutLevel="1" BPMSync="1" BPMMeter="1/8" />
+        <Slot0 Bypass="0" FullScreen="0" Mode="Mono" DelayTime="250" Feedback="44.875" Filter="1830.06" Mix="9.0849" OutLevel="1" BPMSync="1" BPMMeter="1/8" />
         <Slot1 />
         <Slot2 />
         <Slot3 />
